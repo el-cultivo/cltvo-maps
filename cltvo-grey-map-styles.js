@@ -1,4 +1,4 @@
-export const styles = [
+module.exports = [
 	{
 	"featureType": "poi",
 	"stylers": [
@@ -35,5 +35,3 @@ export const styles = [
     ]
   }
 ]
-
-export default styles

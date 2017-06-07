@@ -1,8 +1,10 @@
-import {configMap, geocodeLocation} from './map'
-import map_styles from './cltvo-grey-map-styles'
+var configMap = require ('./map').configMap
+var geocodeLocation= require ('./map').geocodeLocation
+var grey_styles = require('./cltvo-grey-map-styles')
 
-export default {
+module.exports = {
 	configMap,
 	geocodeLocation,
-	grey_styles: map_styles
+	grey_styles
 }
+
