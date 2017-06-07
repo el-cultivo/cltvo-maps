@@ -1,6 +1,6 @@
 {
   "name": "cltvo-maps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configuración básica y usual para los mapas de El Cultivo",
   "main": "index.js",
   "scripts": {
