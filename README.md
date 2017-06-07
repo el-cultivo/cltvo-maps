@@ -1,6 +1,9 @@
-#cltvo-maps
+# cltvo-maps
 
-##¿Qué permite hacer?
+## Instalación
+`npm install cltvo-maps -S`
+
+## ¿Qué permite hacer?
 * Agregar un icono para el marcador
 * Localizar el marcador por medio de una dirección (String)
 * Pasar un JSON con estilos, este package trae ya un set de estilos en gris
