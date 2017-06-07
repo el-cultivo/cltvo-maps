@@ -1,0 +1,17 @@
+{
+  "name": "cltvo-maps",
+  "version": "1.0.0",
+  "description": "Configuración básica y usual para los mapas de El Cultivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "El",
+    "Cultivo",
+    "google",
+    "maps"
+  ],
+  "author": "Diego Villaseñor",
+  "license": "ISC"
+}
